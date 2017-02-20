@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9FB6A70F-4592-4DFA-8ED6-04C7CDDF33D8}|Default">
+  <MonoDevelop.Ide.ItemProperties.ButtonTextCase.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8EB19B66-2EAD-4D96-B2D3-662941BC350B" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/CustomControls/CustomButtonTxtRenderer.cs">
+    <Files>
+      <File FileName="ButtonTextCase/ButtonTextCasePage.xaml.cs" Line="13" Column="1" />
+      <File FileName="ButtonTextCase/ButtonTextCasePage.xaml" Line="8" Column="1" />
+      <File FileName="ButtonTextCase/CustomControls/CustomButton.cs" Line="11" Column="1" />
+      <File FileName="Droid/CustomControls/CustomButtonTxtRenderer.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ButtonTextCase.Droid PreferredExecutionTarget="Android.Nexus 4 (Marshmallow)" />
+</Properties>

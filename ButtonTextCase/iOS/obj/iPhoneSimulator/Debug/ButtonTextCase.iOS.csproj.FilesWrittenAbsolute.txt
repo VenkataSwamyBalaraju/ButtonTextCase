@@ -1,0 +1,15 @@
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/ButtonTextCase.iOS.exe.mdb
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/ButtonTextCase.iOS.exe
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/obj/iPhoneSimulator/Debug/ButtonTextCase.iOS.exe
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/obj/iPhoneSimulator/Debug/ButtonTextCase.iOS.exe.mdb
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/ButtonTextCase.dll
+/Users/devrabbit/Desktop/Venky/Samples/ButtonTextCase/iOS/bin/iPhoneSimulator/Debug/ButtonTextCase.dll.mdb
